@@ -1,0 +1,16 @@
+% measurements from DRR, size(mm) ,angle (degree), system coordinate system as DRR 
+Rib_width 82.14 
+Length_T11L4 57.00 
+Collimator_angle 5.167607e-02 
+Th10_bottom_xyz -31.23 -0.00 32.02 
+L4_bottom_xyz -31.11 -0.00 -100.80 
+L1_bottom_xyz -31.17 -0.00 -30.48 
+Th12_right_cor_xyz -46.86 -0.00 1.73 
+Th12_left_cor_xyz -16.58 -0.00 1.76 
+L2_right_cor_xyz -47.83 -0.00 -42.22 
+L2_left_cor_xyz -14.63 -0.00 -42.19 
+Rib_left_xyz 82.51 -0.00 -8.90 
+Rib_right_xyz -141.13 -0.00 -9.10 
+Verte_width 12.48 
+Rib_width_left 41.58 
+Rib_width_right 40.20 

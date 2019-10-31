@@ -1,0 +1,10 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+Offset = -165.996 53.5 -0.0001297
+CenterOfRotation = -29.297 -42.5
+ElementSpacing = 0.976562 0.976562
+DimSize = 280 200
+ElementType = MET_SHORT
+ElementDataFile = DRRsur.raw
